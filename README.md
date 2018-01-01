@@ -28,13 +28,20 @@ Eski çağlardan beri kullanılan mumun yanması çok da basit bir olay değildi
 İnternetten izlediğimiz videolarda gördüğümüz kadarıyla yapılmış olan deneylerde suyun üzerinde bir de yağ tabakası vardı. Yapacağımız deneylerle suyun üzerinde yağ olup olmamasının ne gibi sonuçlara yol açacağını test edeceğiz.Literatürde sadece suyla yapılmış olan bir deney bulamadığımız için kendimiz test edeceğiz.Eğer deneyimiz su ile istediğimiz sonucu vermezse yağ ile deneyeceğiz.
 # Materyal ve Yöntem (Experimental Setup)
 -Fitil(Mumun içerisindeki ip olarak bilinen yapı)
+
 -Su
+
 -Yağ
+
 -Bardak
+
 -Plasik(Pet şişenin plastiği)
+
 # Deneyin Yapılışı
 ~Öncelikle pet şişeden dairesel bir parça kestik ve bu parçanıın ortasına çok küçük bir delik açtık. Sonrasında mumun içerisinden çıkardığımız fitili bu delikten geçirdik ve ilk olarak bir bardak suyun içerisine attık [Video1] .Fitil 15 sn içerisinde söndü. Ancak aynı deneyi suyun üzerine biraz yağ katarak yaptığımızda mum sönmedi videoda [Video2] 1 dk boyunca yandığını gözlemleyebilirsiniz ancak video bittikten sonra yanmaya devam etti 5 dk sonra biz söndürdük ve yanmaya deva ediyordu ancak ilk yandığı duruma göre şiddeti büyük ölçüde azalmıştı.
+
 ~Deneyi 1kez su ile 2 kez su ve yağ karışımı ile yaptık.
+
 ~Deneyi ev ortamında yaptık
 # Bulgular (Results)
 ~Sonuç olarak fitilin sadece suda yanmadığını suyun yüzeyinde bir miktar yağ bulunmasının mumun yanmaya devam etmesi için gerekli olduğunu gördük.Bunun sebebi yağın gerçek mumdaki parafin görevi görmesidir. 
