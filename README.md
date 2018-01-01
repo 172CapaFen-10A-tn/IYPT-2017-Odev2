@@ -38,7 +38,7 @@ Eski çağlardan beri kullanılan mumun yanması çok da basit bir olay değildi
 -Plasik(Pet şişenin plastiği)
 
 # Deneyin Yapılışı
-~Öncelikle pet şişeden dairesel bir parça kestik ve bu parçanıın ortasına çok küçük bir delik açtık. Sonrasında mumun içerisinden çıkardığımız fitili bu delikten geçirdik ve ilk olarak bir bardak suyun içerisine attık [Video1] .Fitil 15 sn içerisinde söndü. Ancak aynı deneyi suyun üzerine biraz yağ katarak yaptığımızda mum sönmedi videoda [Video2] 1 dk boyunca yandığını gözlemleyebilirsiniz ancak video bittikten sonra yanmaya devam etti 5 dk sonra biz söndürdük ve yanmaya deva ediyordu ancak ilk yandığı duruma göre şiddeti büyük ölçüde azalmıştı.
+~Öncelikle pet şişeden dairesel bir parça kestik ve bu parçanıın ortasına çok küçük bir delik açtık. Sonrasında mumun içerisinden çıkardığımız fitili bu delikten geçirdik ve ilk olarak bir bardak suyun içerisine attık [Video1] .Fitil 15 sn içerisinde söndü [Foto1]. Ancak aynı deneyi suyun üzerine biraz yağ katarak yaptığımızda mum sönmedi videoda [Video2] 1 dk boyunca yandığını gözlemleyebilirsiniz ancak video bittikten sonra yanmaya devam etti 5 dk sonra biz söndürdük ve yanmaya devam ediyordu ancak ilk yandığı duruma göre şiddeti büyük ölçüde azalmıştı [Foto2,Foto3,Foto4,Foto5].
 
 ~Deneyi 1kez su ile 2 kez su ve yağ karışımı ile yaptık.
 
